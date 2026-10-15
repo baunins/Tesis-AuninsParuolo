@@ -17,8 +17,6 @@ Los datos de mercado y de balance provienen de Sharadar (Core US Equities), adqu
 con una licencia de uso personal que **no permite redistribuirlos**. Por ese motivo el
 repositorio no incluye el panel (`panel_eis.csv`) ni ningún archivo de datos.
 
-Data from Sharadar.
-
 ## Uso
 
 ```
@@ -27,6 +25,3 @@ python regresiones.py
 python regresiones_periodos.py
 python regresiones_simultaneo.py
 ```
-
-Cada script lee `panel_eis.csv` desde la carpeta de trabajo y escribe sus resultados en
-una carpeta propia.
