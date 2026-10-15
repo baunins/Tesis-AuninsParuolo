@@ -23,7 +23,7 @@ Data from Sharadar.
 
 ```
 pip install -r requirements.txt
-python regresiones_paula.py
+python regresiones.py
 python regresiones_periodos.py
 python regresiones_simultaneo.py
 ```
