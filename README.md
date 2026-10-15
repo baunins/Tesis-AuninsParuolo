@@ -7,7 +7,7 @@ Código de replicación de la tesis de grado de Benjamín Aunins y Francesca Par
 
 | Script | Qué estima |
 |---|---|
-| `regresiones_paula.py` | Especificación base, contraste sobre la dispersión y respuesta acumulada (proyecciones locales). |
+| `regresiones.py` | Especificación base, contraste sobre la dispersión y respuesta acumulada (proyecciones locales). |
 | `regresiones_periodos.py` | Efecto por período (hasta 2011, 2012–2022 y desde el lanzamiento de ChatGPT), en la muestra completa y en las firmas que permanecieron en el índice. Apéndice B. |
 | `regresiones_simultaneo.py` | Correlaciones entre los shocks y estimación con los tres shocks en simultáneo. Sección 3.3. |
 
