@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Si usás este código, citalo de la siguiente manera."
+title: "Código de replicación: Exposición ocupacional a inteligencia artificial y reacción de retornos ante shocks macroeconómicos"
+authors:
+  - family-names: Aunins
+    given-names: Benjamín
+  - family-names: Paruolo
+    given-names: Francesca
+version: "1.0"
+date-released: 2026-10-15
+repository-code: "https://github.com/USUARIO/tesis-ia-shocks"
